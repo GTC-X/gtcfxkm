@@ -65,9 +65,7 @@ export default function HomePage() {
         <div id="liquidity-solutions" className="scroll-mt-36">
           <LiquiditySolutions />
         </div>
-        <div id="smart-trading" className="scroll-mt-36">
-          <TradingOptionsSection />
-        </div>
+       
         <SecurityFund />
         <div id="account-types" className="scroll-mt-36">
           <TradingPlatform />
