@@ -82,7 +82,7 @@ export default function TradingPlatform() {
                       loading="lazy"
                     />
                   </div>
-                    <p className="text text-[14px] md:text-base line-clamp-2 font-semibold uppercase md:w-24 text-left">{account.heading}</p>
+                    <p className="text text-[14px] md:text-base line-clamp-2 font-semibold uppercase md:w-24 text-left">{account.heading}</p>   
                     </Link>
                
                 </div>
