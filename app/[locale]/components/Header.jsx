@@ -210,7 +210,7 @@ const Header = ({currentLanguage}) => {
   <nav className="container">
     <div className="flex items-center justify-between">
       <Image
-        src="/logo.webp"
+        src="/logos.png"
         width={200}
         height={800}
         alt="GTCFX"
